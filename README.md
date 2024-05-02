@@ -15,7 +15,7 @@ Erudite is an AI-powered job seeker application based on Gemini Pro AI from Goog
 
 Erudite was built in Python language and exploited the Gemini Pro model from Google as the (LLM) large language model to role-play the AI consultant, and LangChain framework for orchestrating the data flow from the user input to the response from the LLM. Moreover, Beautiful-Soup framework for some publicly posted jobs data scrapped to be fed to the model as a knowledge base. Finally, FLET framework that uses flutter concepts but in python and was used for putting things together in a modern-looking UI.
 
-######################################################################################################
+#####################################################################################
 
 ### Erudite User Guide
 
@@ -25,7 +25,7 @@ Welcome to Erudite, your AI-powered job seeker companion! Below are the instruct
 
 **1. Getting Started**
 
-- Upon launching Erudite, you'll be greeted with four main tabs: Inputs, Search Results, Consultant, and Insights.
+- Upon launching Erudite, you'll find four main tabs: Inputs, Search Results, Consultant, and Insights.
 
 **2. Inputs Tab**
 
@@ -41,7 +41,7 @@ Welcome to Erudite, your AI-powered job seeker companion! Below are the instruct
 **3. Search Results Tab**
 
 - In this tab, you'll find the results of the job search displayed in a table format.
-- Click on the "Apply" button to redirect to the job page for further details.
+- Click on the "**Apply**" button to redirect to the job page for further details.
 
 **4. Consultant Tab**
 
@@ -56,8 +56,7 @@ Welcome to Erudite, your AI-powered job seeker companion! Below are the instruct
 - Explore insights into the job market:
   - Discover skills required for various job roles.
   - View frequency of skills across job listings.
-  - Gain a summary of similarities in job descriptions.
-
+  
 ---
 
 ### Disclaimer
